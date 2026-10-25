@@ -1,0 +1,4 @@
+Django>=5.0
+google-genai>=2.31.0
+pypdf>=5.0.0
+python-dotenv>=1.0.0
